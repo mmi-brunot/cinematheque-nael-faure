@@ -26,7 +26,7 @@ Ouvrez http://localhost:3000.
 ### 3. Relier le dépôt de l'enseignant (une seule fois)
 
 ```bash
-git remote add upstream https://github.com/<compte-enseignant>/cinematheque.git
+git remote add upstream https://github.com/mmi-brunot/cinematheque.git
 ```
 
 ### 4. Aux séances suivantes : récupérer la nouvelle branche
