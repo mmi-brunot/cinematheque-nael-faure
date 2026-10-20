@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "slug": "amelie",
+    "title": "Le Fabuleux Destin d'Amélie Poulain",
+    "year": 2001,
+    "director": "Jean-Pierre Jeunet",
+    "genres": ["comedie", "romance"],
+    "duration": 122,
+    "synopsis": "Serveuse dans un café de Montmartre, Amélie décide d'améliorer en secret la vie des gens qui l'entourent, jusqu'au jour où elle doit s'occuper de la sienne.",
+    "poster": "/posters/amelie.webp"
+  },
+  {
+    "id": 2,
+    "slug": "intouchables",
+    "title": "Intouchables",
+    "year": 2011,
+    "director": "Olivier Nakache et Éric Toledano",
+    "genres": ["comedie", "drame"],
+    "duration": 112,
+    "synopsis": "Un riche aristocrate tétraplégique engage comme aide à domicile un jeune homme de banlieue sans expérience. Une amitié improbable naît entre eux.",
+    "poster": "/posters/intouchables.webp"
+  },
+  {
+    "id": 3,
+    "slug": "la-haine",
+    "title": "La Haine",
+    "year": 1995,
+    "director": "Mathieu Kassovitz",
+    "genres": ["drame"],
+    "duration": 98,
+    "synopsis": "Vingt-quatre heures dans la vie de trois amis d'une cité de banlieue, au lendemain d'une nuit d'émeutes, alors que l'un d'eux a trouvé une arme.",
+    "poster": "/posters/la-haine.webp"
+  },
+  {
+    "id": 4,
+    "slug": "le-voyage-de-chihiro",
+    "title": "Le Voyage de Chihiro",
+    "year": 2001,
+    "director": "Hayao Miyazaki",
+    "genres": ["animation", "fantastique"],
+    "duration": 125,
+    "synopsis": "Pendant un déménagement, une fillette se retrouve piégée dans un monde peuplé d'esprits et doit travailler dans un établissement de bains pour sauver ses parents.",
+    "poster": "/posters/le-voyage-de-chihiro.webp"
+  },
+  {
+    "id": 5,
+    "slug": "parasite",
+    "title": "Parasite",
+    "year": 2019,
+    "director": "Bong Joon-ho",
+    "genres": ["thriller", "drame"],
+    "duration": 132,
+    "synopsis": "Une famille sans le sou s'infiltre peu à peu dans la luxueuse maison d'une famille aisée, jusqu'à ce qu'un secret enfoui fasse tout basculer.",
+    "poster": "/posters/parasite.webp"
+  },
+  {
+    "id": 6,
+    "slug": "blade-runner-2049",
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "director": "Denis Villeneuve",
+    "genres": ["science-fiction"],
+    "duration": 164,
+    "synopsis": "Trente ans après le premier film, un nouveau blade runner découvre un secret capable de bouleverser l'équilibre entre humains et réplicants.",
+    "poster": "/posters/blade-runner-2049.webp"
+  },
+  {
+    "id": 7,
+    "slug": "portrait-de-la-jeune-fille-en-feu",
+    "title": "Portrait de la jeune fille en feu",
+    "year": 2019,
+    "director": "Céline Sciamma",
+    "genres": ["drame", "romance"],
+    "duration": 122,
+    "synopsis": "En Bretagne, à la fin du XVIIIe siècle, une peintre doit réaliser en secret le portrait de mariage d'une jeune femme qui refuse de poser.",
+    "poster": "/posters/portrait-de-la-jeune-fille-en-feu.webp"
+  },
+  {
+    "id": 8,
+    "slug": "la-la-land",
+    "title": "La La Land",
+    "year": 2016,
+    "director": "Damien Chazelle",
+    "genres": ["romance", "drame"],
+    "duration": 128,
+    "synopsis": "À Los Angeles, une aspirante actrice et un pianiste de jazz tombent amoureux tout en poursuivant chacun leurs rêves, au risque de s'éloigner.",
+    "poster": "/posters/la-la-land.webp"
+  },
+  {
+    "id": 9,
+    "slug": "les-triplettes-de-belleville",
+    "title": "Les Triplettes de Belleville",
+    "year": 2003,
+    "director": "Sylvain Chomet",
+    "genres": ["animation", "comedie"],
+    "duration": 80,
+    "synopsis": "Lorsque son petit-fils cycliste est enlevé pendant le Tour de France, une grand-mère obstinée traverse l'océan pour le retrouver, aidée de trois vieilles chanteuses.",
+    "poster": "/posters/les-triplettes-de-belleville.webp"
+  },
+  {
+    "id": 10,
+    "slug": "inception",
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "genres": ["science-fiction", "thriller"],
+    "duration": 148,
+    "synopsis": "Un voleur spécialisé dans l'extraction de secrets à l'intérieur des rêves reçoit une mission inverse : implanter une idée dans l'esprit d'une cible.",
+    "poster": "/posters/inception.webp"
+  },
+  {
+    "id": 11,
+    "slug": "anatomie-d-une-chute",
+    "title": "Anatomie d'une chute",
+    "year": 2023,
+    "director": "Justine Triet",
+    "genres": ["thriller", "drame"],
+    "duration": 151,
+    "synopsis": "Après la mort suspecte de son mari dans leur chalet isolé, une romancière est accusée. Son fils malvoyant devient un témoin clé du procès.",
+    "poster": "/posters/anatomie-d-une-chute.webp"
+  },
+  {
+    "id": 12,
+    "slug": "le-grand-bain",
+    "title": "Le Grand Bain",
+    "year": 2018,
+    "director": "Gilles Lellouche",
+    "genres": ["comedie", "drame"],
+    "duration": 122,
+    "synopsis": "Une bande de quadragénaires en pleine crise se lance dans la natation synchronisée masculine, avec l'objectif fou de participer aux championnats du monde.",
+    "poster": "/posters/le-grand-bain.webp"
+  }
+]
