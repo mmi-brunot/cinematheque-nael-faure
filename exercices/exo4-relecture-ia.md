@@ -13,6 +13,9 @@ Le code s'exécute, mais il contient **3 erreurs** de conception ou de React. Po
 Ne copiez pas ce code dans `app/` : il sert uniquement à la lecture.
 
 ---
+Réponse
+erreur 1: le use client ligne 20 ne doivent pas être présents car ils sont useless car le layout est coté serveur,  y’a pas d’execution se faisant dans le navigateur à faire dans le fichier layout
+erreur 2: y'a un fetch du json mais les ddonnées ne sont pas importés donc ce n'est oas
 
 ## `app/layout.tsx`
 
@@ -44,7 +47,7 @@ import { useEffect, useState } from 'react';
 import type { Film } from '@/lib/types';
 
 export default function FilmsPage() {
-  const [films, setFilms] = useState<Film[]>([]);
+  const [films, setFilms] = useState<Film[]>([]);   ?
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
