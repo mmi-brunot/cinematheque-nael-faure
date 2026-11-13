@@ -1,21 +1,19 @@
+import Link from "next/link";
+
 export default function HomePage() {
   return (
-    <section className="space-y-4">
+    <section className="max-w-prose space-y-4">
       <h1 className="text-4xl font-bold tracking-tight">Cinémathèque</h1>
-      <p className="text-lg opacity-80">
-        Bienvenue dans le fil d&apos;exercices Next.js. Cette application
-        s&apos;enrichira à chaque séance.
+      <p className="text-lg text-neutral-700 dark:text-neutral-300">
+        Douze films, une application qui grandit à chaque séance.
       </p>
       <p>
-        Les consignes de la séance sont dans le fichier{" "}
-        <code className="rounded bg-black/5 px-1.5 py-0.5 dark:bg-white/10">
-          README.md
-        </code>
-        . Les données des films sont dans{" "}
-        <code className="rounded bg-black/5 px-1.5 py-0.5 dark:bg-white/10">
-          data/films.json
-        </code>
-        .
+        <Link href="/films" className="underline underline-offset-4">
+          Parcourir le catalogue
+        </Link>
+      </p>
+      <p className="text-sm text-neutral-600 dark:text-neutral-400">
+        Les consignes de la séance sont dans <code>README.md</code>.
       </p>
     </section>
   );
